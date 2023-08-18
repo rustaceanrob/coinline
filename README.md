@@ -2,6 +2,12 @@
 
 Coinline is a command line interface (CLI) to interact with Bitcoin hardware wallets, the Bitcoin network, and broadcast transactions without a need to run a Bitcoin node. Coinline is currently compatible with **********************************************Coldcard MK4, Keystone, and Ledger Nano S.********************************************** This is a wallet designed for technical users. For more information, visit https://coinline.io
 
+## Quick Start
+
+`sudo npm install -g coinline_cli`
+
+`coinline --help`
+
 ## Features
 
 - Set and get the current wallet configuration.
