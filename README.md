@@ -10,14 +10,14 @@ Coinline is a command line interface (CLI) to interact with Bitcoin hardware wal
 
 ## Features
 
-- Set and get the current wallet configuration.
+- Set and get the current wallet configuration
 - Get the Native Segwit wallet balance
 - Retrieve the next unused Native Segwit receiving address and display the Bitcoin URI as a QR code
 - Get the transaction history for the wallet
 - Sign, send and broadcast transactions to an Electrum server
     - With a file workflow for Coldcard and Keystone
     - Directly, with a Ledger
-- Set the Electrum Client. Extremely error prone. Not recommended unless you run your own Electrum server.
+- Set the Electrum Client. Extremely error prone. Not recommended unless you run your own Electrum server
 - Scan for small UTXOs to manage your dust
 - Set the UTXO scanning gap between 1 and 50
 
