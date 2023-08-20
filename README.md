@@ -4,7 +4,7 @@ Coinline is a command line interface (CLI) to interact with Bitcoin hardware wal
 
 ## Quick Start
 
-`sudo npm install -g coinline_cli`
+`npm install -g coinline_cli`
 
 `coinline --help`
 
